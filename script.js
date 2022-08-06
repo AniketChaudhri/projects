@@ -1,5 +1,5 @@
-const username = '2kabhishek';
-const maxPages = 2;
+const username = 'AniketChaudhri';
+const maxPages = 1;
 const repoList = document.querySelector('.repo-list');
 const reposSection = document.querySelector('.repos');
 const filterInput = document.querySelector('.filter-repos');
